@@ -3,3 +3,8 @@ Visit: ```https://fillactive-chat-app.netlify.app/``` </br>
 The link will probably ask you for a username and a password: </br>
 Username: ```steph``` </br>
 Password: ```steph``` </br>
+```
+git status
+git add
+git commit
+```
